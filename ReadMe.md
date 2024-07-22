@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mí:
 Soy Juan Carlos, un estudiante de Desarrollo Web de 21 años, residente en Argentina. Tengo experiencia trabajando con un amplio rango de tecnologías, incluyendo PostgreSQL, typeORM, MongoDB, Express, React, NestJS y Node.js 🚀. Aunque me desenvuelvo bien en todo el stack, mi verdadera pasión y especialidad es el desarrollo backend.<br><br><br>Mi trayectoria en el ámbito de la tecnología comenzó en mi infancia, cuando me interesó la idea de la creación de videojuegos y me gustaba observar cómo la programación podía dar vida a estos proyectos. Mi interés sobre este campo me llevó a tomar una decisión importante a los 20 años: dejar mi empleo y matricularme en un bootcamp de programación. Esta experiencia no solo me proporcionó las habilidades técnicas necesarias para convertirme en un desarrollador Fullstack, sino que también me inculcó la importancia de la disciplina y la dedicación para alcanzar logros significativos en un período de tiempo reducido. Actualmente, estoy en la búsqueda de una oportunidad para aplicar mi experiencia y energía en una empresa innovadora del sector tecnológico.
 
 
